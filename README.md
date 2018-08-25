@@ -17,17 +17,19 @@ https://developers.facebook.com/tools/explorer/
 
 
 
-# Language
- CORE PHP
-
+###Language
+   CORE PHP
+### Instoll
+    XAMPP
+  
 ## Third Party Library
 * Facebook sdk
 * Google drive api
-* booster
+* Bootstrap
 
 ## Features 
 * All album download in zip file folder vise (LARGE SIZE IMAGE, MEDIAM SIZE IMAGE, SMALL SIZE IMAGE)
-* selected album download in zip file folder vise (LARGE SIZE, MEDIAM SIZE, SMALL SIZE)
+* selected album download in zip file folder vise (LARGE SIZE IMAGE, MEDIAM SIZE IMAGE, SMALL SIZE IMAGE)
 * All album move in google drive(ZIP file)
 * Selected album move in google drive(ZIP file)
 * Open a album and select images download in zip file
