@@ -36,3 +36,5 @@ https://developers.facebook.com/tools/explorer/
 * Open a album and select images download in zip file
 * Album slide show
 
+#### Notice
+* Third party library install via composer but you can host a site in www.000webhost.com can not install composer because they are face the fatal error.
