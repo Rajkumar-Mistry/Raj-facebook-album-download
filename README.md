@@ -22,8 +22,6 @@
 * Open a album and select images download in zip file
 * Album slide show
 
-#### Notice
-* Third party library install via composer but you can host a site in www.000webhost.com can not install composer because they are face the fatal error.
 
 # HOW-TO-USED CODE
 Getting Started First, You need to add your own facebook developer configurations (app id, app secret, redirect URL) in facebook_app.php.
@@ -40,3 +38,7 @@ Google Drive API :Used to access google drive and manage folders and files of au
 Curl :Used to retrive the facebook album data.Curl configuration in Album.php.
 * me?fields=id,name,albums{count,name,photos.limit(100){images}} + ACCESS TOKEN
 https://developers.facebook.com/tools/explorer/
+
+#### Notice
+* Third party library install via composer but you can host a site in www.000webhost.com can not install composer because they are face the fatal error.
+
