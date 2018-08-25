@@ -26,15 +26,15 @@
 # HOW-TO-USED CODE
 Getting Started First, You need to add your own facebook developer configurations (app id, app secret, redirect URL) in facebook_app.php.
 
-          $fb = new Facebook\Facebook([
+        $fb = new Facebook\Facebook([
 	  
 	   'app_id' => 'YOUR APP ID',
 	   
 	   'app_secret' => 'YOUR SECRET KEY',
 	   
-	  'default_graph_version' => 'VERSION',
+	   'default_graph_version' => 'VERSION',
 	  
-	  ]);
+	    ]);
      
 Then You need to add your own google developer configurations (id, secret,redirect url) in upload.php.
 
