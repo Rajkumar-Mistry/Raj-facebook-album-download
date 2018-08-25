@@ -1,5 +1,18 @@
 # Raj-facebook-album-download
 
+# FACEBOOK ALBUM
+1. user login through facebook , where it will ask for authentication and providing  profile_photo and it will   redirect you to the callback page of the website with succesfull login.
+2. Now your whole album list will come in the website like cover album , profile pictures and mobile uploads
+just click on the album and you will get a slide show of of your pictures .
+
+## Features 
+* All album download in zip file folder vise (LARGE SIZE IMAGE, MEDIAM SIZE IMAGE, SMALL SIZE IMAGE)
+* selected album download in zip file folder vise (LARGE SIZE IMAGE, MEDIAM SIZE IMAGE, SMALL SIZE IMAGE)
+* All album move in google drive(ZIP file)
+* Selected album move in google drive(ZIP file)
+* Open a album and select images download in zip file
+* Album slide show
+
 
 
 ### Language
@@ -13,14 +26,6 @@
 * Facebook sdk
 * Google drive api
 * Bootstrap
-
-## Features 
-* All album download in zip file folder vise (LARGE SIZE IMAGE, MEDIAM SIZE IMAGE, SMALL SIZE IMAGE)
-* selected album download in zip file folder vise (LARGE SIZE IMAGE, MEDIAM SIZE IMAGE, SMALL SIZE IMAGE)
-* All album move in google drive(ZIP file)
-* Selected album move in google drive(ZIP file)
-* Open a album and select images download in zip file
-* Album slide show
 
 
 # HOW-TO-USED CODE
