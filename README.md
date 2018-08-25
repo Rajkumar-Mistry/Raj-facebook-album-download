@@ -38,10 +38,10 @@ Getting Started First, You need to add your own facebook developer configuration
      
 Then You need to add your own google developer configurations (id, secret,redirect url) in upload.php.
 
-$client = new Google_Client();
-$client->setClientId('YOUR CLIENT-ID');
-$client->setClientSecret('YOURSECRET KEY');
-$client->setRedirectUri('YOUR REDIRECT URL');
+	$client = new Google_Client();
+	$client->setClientId('YOUR CLIENT-ID');
+	$client->setClientSecret('YOURSECRET KEY');
+	$client->setRedirectUri('YOUR REDIRECT URL');
 
 
 you need to add Facebook and Google drive library into facebook and gmail folder.
