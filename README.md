@@ -25,6 +25,7 @@
 
 # HOW-TO-USED CODE
 Getting Started First, You need to add your own facebook developer configurations (app id, app secret, redirect URL) in facebook_app.php.
+
           $fb = new Facebook\Facebook([
 	  
 	   'app_id' => 'YOUR APP ID',
@@ -36,6 +37,7 @@ Getting Started First, You need to add your own facebook developer configuration
 	  ]);
      
 Then You need to add your own google developer configurations (id, secret,redirect url) in upload.php.
+
 $client = new Google_Client();
 $client->setClientId('YOUR CLIENT-ID');
 $client->setClientSecret('YOURSECRET KEY');
