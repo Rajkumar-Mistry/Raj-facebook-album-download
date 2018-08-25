@@ -1,11 +1,11 @@
 # Raj-facebook-album-download
 # Language
-CORE PHP
+ CORE PHP
 
 ## Third Party Library
-*Facebook sdk
-*Google drive api
-*Booster
+* Facebook sdk
+* Google drive api
+* Booster
 
 ## Features 
 * All album download in zip file folder vise (LARGE SIZE IMAGE, MEDIAM SIZE IMAGE, SMALL SIZE IMAGE)
@@ -15,7 +15,7 @@ CORE PHP
 * Open a album and select images download in zip file
 * Album slide show
 
-##Description
+## Description
 User login with facebook and get a album.user can select all album or selected album download.user can view the slide show.
 user open a album and selected images download.
 
