@@ -11,7 +11,7 @@ require_once 'gmail/src/contrib/Google_DriveService.php';
 $client = new Google_Client();
 $client->setClientId('871462948008-5s5d4p10ku1anlssdk12ei8esgchk8lk.apps.googleusercontent.com');
 $client->setClientSecret('jrtmJC7pOHsHXuH30b-LHofW');
-$client->setRedirectUri('https://rajmistry.000webhostapp.com/upload.php');
+$client->setRedirectUri('https://rajmistry.herokuapp.com/upload.php');
 $client->setScopes(array('https://www.googleapis.com/auth/drive.file'));
 
 
