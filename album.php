@@ -117,6 +117,10 @@ include 'album_zip_create_function.php';
 			{
 				$albums_name=$retval['albums']['data'][$albums_index]['name'];
 				$total_picture=$retval['albums']['data'][$albums_index]['count'];
+		              if($total_picture==0)
+			    {
+			        continue;
+			    }
 				if($total_picture < 100)
 				{
 					//album image add 
