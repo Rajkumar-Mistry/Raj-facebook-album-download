@@ -10,7 +10,7 @@ include 'facebook_app.php';
      $helper = $fb->getRedirectLoginHelper();
 
      $permissions = ['user_photos']; // Optional permissions
-     $loginUrl = $helper->getLoginUrl('https://rajmistry.000webhostapp.com/callback.php',$permissions);
+     $loginUrl = $helper->getLoginUrl('https://rajmistry.herokuapp.com/callback.php',$permissions);
      
     
 ?>
